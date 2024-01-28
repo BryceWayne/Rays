@@ -14,7 +14,7 @@ While the algorithm successfully generates countless unique maps, there's a subt
 
 ## How to Participate
 
-1. **Watch the Video**: Head over to our [YouTube channel](#) and watch the procedural generation in action.
+1. **Watch the Video**: Head over to our [YouTube channel](https://youtu.be/_FymRzj-u-8) and watch the procedural generation in action.
 2. **Spot the Bug**: Pay close attention to the tiles and their arrangement. If you notice anything out of place or peculiar, you might be onto something!
 3. **Share Your Findings**: Comment on the video with your observations. Be as descriptive as possible about what you see and where you think the bug is.
 4. **Fame Awaits**: The first person to correctly identify the bug will receive a special shoutout in our next video!
